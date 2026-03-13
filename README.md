@@ -1,6 +1,8 @@
 # watchy-pipboy-case
 3D files for the Watchy pipboy case
 
+![Watchy](./watchy-pipboy-yellow.JPG)
+
 - 1 x top_v1 or top_v2
 - 1 x bottom
 - 4 x button_v1 or button_v2
